@@ -12,6 +12,7 @@ html{
 
 body{
     font-size: 16px;
+    font-family: 'Krub', sans-serif;
 }
 
 /* 1rem = 10px*/
@@ -25,3 +26,16 @@ body{
     font-size: 20px;
     font-size: 2rem;
 }
+
+.contenedor{
+    width: 120rem;
+    margin: 0 auto;
+}
+
+.nav-bg{
+    background-color: var(--secundario);
+}
+
+/*.navegacion-principal{
+    
+}*/
