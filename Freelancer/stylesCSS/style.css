@@ -1,3 +1,11 @@
+:root{
+    --blanco:#ffffff;
+    --oscuro:#212121;
+    --primario:#ffc107;
+    --secundario:#0097a7;
+    --gris:#757575;
+}
+
 html{
     font-size: 62.5%;
 }
@@ -8,12 +16,12 @@ body{
 
 /* 1rem = 10px*/
 
-h1{
+.titulo{
     text-align: center;
     font-size: 3.8rem;
 } 
 
-span{
+.titulo span{
     font-size: 20px;
     font-size: 2rem;
 }
